@@ -1,7 +1,7 @@
 # SafetySeeds
 Safety Seeds
   Planting the seeds of emergency service
-  We have emergency information continuously displayed on a phone. We will have it always available regardless of connectivity and based on the last known location. ![image](https://user-images.githubusercontent.com/12777233/133905331-a03456aa-b3c5-40fd-8622-93354cb4ba7f.png)
+  We have emergency information continuously displayed on a phone. We will have it always available regardless of connectivity and based on the last known location.
 
 What is emergency services?
 Matter of life or death!
