@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/12777233/133909045-e557c54f-168c-4030-8160-581921357db4.png)
+![image](https://user-images.githubusercontent.com/12777233/133909050-851be6e5-166f-4f26-832d-03b4a3c8601c.png)
+![image](https://user-images.githubusercontent.com/12777233/133909055-dbb71476-32d4-4b98-b320-15d95cb33ec5.png)
+![image](https://user-images.githubusercontent.com/12777233/133909060-b0ce50d7-31d6-47ae-801a-7b0535c762c4.png)
+
 # SafetySeeds
 - Planting the seeds of emergency service
 - We have emergency information continuously displayed on a phone. We will have it always available regardless of connectivity and based on the last known location.
