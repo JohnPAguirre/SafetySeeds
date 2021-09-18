@@ -42,6 +42,19 @@
 - Secondary: 
 
 # Tech
+- We want all data on the phone on first load
+- Realistically only able to do state
+- Data
+ - Name
+ - Address
+ - Address 1
+ - State
+ - Zip
+ - Town
+ - Phone
+ - Coordinates
+ - Service Type
+
 # Support
 
 # Product roadmap
